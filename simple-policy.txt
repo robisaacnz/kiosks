@@ -7,7 +7,7 @@
     "felcaaldnbdncclmgdcncolpebgiejap",
     "pjkljhegncpnkpknbcohdijeoejaedia",
     "aapocclcgogkmnckokdopfmhonfmgoek",
-    "cjpalhdlnbpafiamejdnhcphjbkeiagm", ],
+    "cjpalhdlnbpafiamejdnhcphjbkeiagm",],
 
 "ExtensionInstallForcelist": [
     "aohghmighlieiainnegkcijnfilokake;https://clients2.google.com/service/update2/crx",
@@ -16,4 +16,4 @@
     "felcaaldnbdncclmgdcncolpebgiejap;https://clients2.google.com/service/update2/crx",
     "pjkljhegncpnkpknbcohdijeoejaedia;https://clients2.google.com/service/update2/crx",
     "aapocclcgogkmnckokdopfmhonfmgoek;https://clients2.google.com/service/update2/crx",
-    "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", ],
+    "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",],
