@@ -1,5 +1,5 @@
 // Hide the bookmark bar:
-// "BookmarkBarEnabled": false,
+"BookmarkBarEnabled": false,
 
 // Disable developer tools:
 // "DeveloperToolsDisabled": true,
@@ -8,7 +8,13 @@
 // "DefaultGeolocationSetting": 2,
 
 // Install uBlock Origin, Data Saver, and Office Editing extensions
-"ExtensionInstallForcelist": ["cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", "pfmgfdlgomnbgkofeojodiodmgpgmkac;https://clients2.google.com/service/update2/crx", "gbkeegbaiigmenfmjfclcdgdpimamgkj;https://clients2.google.com/service/update2/crx"],
+// "ExtensionInstallForcelist": ["cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", "pfmgfdlgomnbgkofeojodiodmgpgmkac;// https://clients2.google.com/service/update2/crx", "gbkeegbaiigmenfmjfclcdgdpimamgkj;https://clients2.google.com/service/update2/crx"],
+
+"ExtensionInstallWhitelist": [ "aapocclcgogkmnckokdopfmhonfmgoek", "aohghmighlieiainnegkcijnfilokake", "apdfllckaahabafndbhieahigkjlhalf", "blpcfgokakmgnkcojhhkbfbldkacnbeo", "felcaaldnbdncclmgdcncolpebgiejap", "pjkljhegncpnkpknbcohdijeoejaedia",],
+"ExtensionInstallForcelist": [ "mdmkkicfmmkgmpkmkdikhlbggogpicma;https://clients2.google.com/service/update2/crx", "aapocclcgogkmnckokdopfmhonfmgoek;https://clients2.google.com/service/update2/crx", "aohghmighlieiainnegkcijnfilokake;https://clients2.google.com/service/update2/crx", "apdfllckaahabafndbhieahigkjlhalf;https://clients2.google.com/service/update2/crx", "blpcfgokakmgnkcojhhkbfbldkacnbeo;https://clients2.google.com/service/update2/crx", "felcaaldnbdncclmgdcncolpebgiejap;https://clients2.google.com/service/update2/crx", "pjkljhegncpnkpknbcohdijeoejaedia;https://clients2.google.com/service/update2/crx",],
 
 // Disable background mode as it interferes with state saving
 "BackgroundModeEnabled": false,
+
+// Enable the bookmarks editor
+"EditBookmarksEnabled": true,
