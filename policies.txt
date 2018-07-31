@@ -12,3 +12,6 @@
 
 // Install uBlock Origin extension
 "ExtensionInstallForcelist": ["cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx"],
+
+// Disable background mode as it interferes with state saving
+"BackgroundModeEnabled": false,
