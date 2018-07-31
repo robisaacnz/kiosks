@@ -1,31 +1,5 @@
-// Hide the bookmark bar:
 "BookmarkBarEnabled": false,
-
-// Enable developer tools:
-// "DeveloperToolsDisabled": false,
-
-// Disable location tracking:
-// "DefaultGeolocationSetting": 2,
-
-// Disable background mode to prevent interference with persistence
 "BackgroundModeEnabled": false,
-
-// Enable the bookmarks editor:
 "EditBookmarksEnabled": true,
-
-// Enable the user manager:
-
-// Enable phishing and malware protection:
-// "SafeBrowsingEnabled": true,
-
-// Enable safe search:
-// "ForceGoogleSafeSearch": true,
-
-// Enable YouTube content restrictions:
-// "ForceYouTubeRestrict": true,
-
-// Permit the standard Google Apps (Slides, Docs, Drive, YouTube, Sheets, Gmail) 
-"ExtensionInstallWhitelist": [ "aapocclcgogkmnckokdopfmhonfmgoek", "aohghmighlieiainnegkcijnfilokake", "apdfllckaahabafndbhieahigkjlhalf", "blpcfgokakmgnkcojhhkbfbldkacnbeo", "felcaaldnbdncclmgdcncolpebgiejap", "pjkljhegncpnkpknbcohdijeoejaedia", ],
-
-// Install uBlock Origin
-"ExtensionInstallForcelist": [ "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", ],
+"ExtensionInstallWhitelist": [ "aapocclcgogkmnckokdopfmhonfmgoek", "aohghmighlieiainnegkcijnfilokake", "apdfllckaahabafndbhieahigkjlhalf", "blpcfgokakmgnkcojhhkbfbldkacnbeo", "felcaaldnbdncclmgdcncolpebgiejap", "pjkljhegncpnkpknbcohdijeoejaedia", ""cjpalhdlnbpafiamejdnhcphjbkeiagm", ],
+"ExtensionInstallForcelist": [ "aapocclcgogkmnckokdopfmhonfmgoek;https://clients2.google.com/service/update2/crx", "aohghmighlieiainnegkcijnfilokake;https://clients2.google.com/service/update2/crx", "apdfllckaahabafndbhieahigkjlhalf;https://clients2.google.com/service/update2/crx", "blpcfgokakmgnkcojhhkbfbldkacnbeo;https://clients2.google.com/service/update2/crx", "felcaaldnbdncclmgdcncolpebgiejap;https://clients2.google.com/service/update2/crx", "pjkljhegncpnkpknbcohdijeoejaedia;https://clients2.google.com/service/update2/crx", "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", ],
