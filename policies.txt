@@ -1,14 +1,14 @@
 // Show the home button:
-"ShowHomeButton": true,
+// "ShowHomeButton": true,
 
 // Hide the bookmark bar:
 "BookmarkBarEnabled": false,
 
 // Disable developer tools:
-"DeveloperToolsDisabled": true,
+// "DeveloperToolsDisabled": true,
 
 // Disable tracking of the users' physical location:
-"DefaultGeolocationSetting": 2,
+// "DefaultGeolocationSetting": 2,
 
 // Install uBlock Origin extension
 "ExtensionInstallForcelist": ["cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx"],
