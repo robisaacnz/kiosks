@@ -1,6 +1,7 @@
 connection=wired
 dhcp=yes
 browser=chrome
+kiosk_config=https://raw.githubusercontent.com/robisaacnz/kiosks/master/config.txt
 dpms_idle=10
 gpu_driver=modesetting
 homepage=chrome://apps
