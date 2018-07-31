@@ -1,5 +1,5 @@
 // Hide the bookmark bar:
-"BookmarkBarEnabled": false,
+// "BookmarkBarEnabled": false,
 
 // Disable developer tools:
 // "DeveloperToolsDisabled": true,
@@ -7,8 +7,8 @@
 // Disable tracking of the users' physical location:
 // "DefaultGeolocationSetting": 2,
 
-// Install uBlock Origin extension
-"ExtensionInstallForcelist": ["cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx"],
+// Install uBlock Origin, Data Saver, and Office Editing extensions
+"ExtensionInstallForcelist": ["cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", "pfmgfdlgomnbgkofeojodiodmgpgmkac;https://clients2.google.com/service/update2/crx", "gbkeegbaiigmenfmjfclcdgdpimamgkj;https://clients2.google.com/service/update2/crx"],
 
 // Disable background mode as it interferes with state saving
 "BackgroundModeEnabled": false,
