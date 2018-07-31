@@ -1,0 +1,14 @@
+// Never allow fullscreen:
+"FullscreenAllowed": false,
+
+// Show the home button:
+"ShowHomeButton": true,
+
+// Hide the bookmark bar:
+"BookmarkBarEnabled": false,
+
+// Disable developer tools:
+"DeveloperToolsDisabled": true,
+
+// Disable tracking of the users' physical location:
+"DefaultGeolocationSetting": 2,
