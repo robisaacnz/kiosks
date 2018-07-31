@@ -15,4 +15,3 @@ right_mouse_click=yes
 timezone=Pacific/Auckland
 wallpaper=https://raw.githubusercontent.com/robisaacnz/kiosks/master/wallpaper.jpg
 additional_components=06-fonts.xzm
-browser_preferences=https://raw.githubusercontent.com/robisaacnz/kiosks/master/policies.txt
