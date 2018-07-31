@@ -6,7 +6,7 @@
     "blpcfgokakmgnkcojhhkbfbldkacnbeo",
     "felcaaldnbdncclmgdcncolpebgiejap",
     "pjkljhegncpnkpknbcohdijeoejaedia",
-    "aapocclcgogkmnckokdopfmhonfmgoek"
+    "aapocclcgogkmnckokdopfmhonfmgoek",
     "cjpalhdlnbpafiamejdnhcphjbkeiagm",],
 
 "ExtensionInstallForcelist": [
