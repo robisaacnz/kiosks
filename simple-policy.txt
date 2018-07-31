@@ -1,13 +1,5 @@
 "BookmarkBarEnabled": false,
-
-"ExtensionInstallForcelist": [
-    "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",],
-    
-"ExtensionInstallWhitelist": [
-    "cjpalhdlnbpafiamejdnhcphjbkeiagm",
-    "aohghmighlieiainnegkcijnfilokake",
-    "apdfllckaahabafndbhieahigkjlhalf",
-    "blpcfgokakmgnkcojhhkbfbldkacnbeo",
-    "felcaaldnbdncclmgdcncolpebgiejap",
-    "pjkljhegncpnkpknbcohdijeoejaedia",
-    "aapocclcgogkmnckokdopfmhonfmgoek",],
+"ExtensionInstallForcelist": ["cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",],
+"ExtensionInstallWhitelist": [ "aapocclcgogkmnckokdopfmhonfmgoek", "aohghmighlieiainnegkcijnfilokake", "apdfllckaahabafndbhieahigkjlhalf", "blpcfgokakmgnkcojhhkbfbldkacnbeo", "felcaaldnbdncclmgdcncolpebgiejap", "pjkljhegncpnkpknbcohdijeoejaedia",],
+"URLBlacklist": [ "chrome://*", "file://*",],
+"URLWhitelist": [ "chrome://apps", "chrome://chrome-signin", "chrome://newtab", "chrome://version",],
