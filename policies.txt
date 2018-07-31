@@ -1,20 +1,31 @@
 // Hide the bookmark bar:
 "BookmarkBarEnabled": false,
 
-// Disable developer tools:
-// "DeveloperToolsDisabled": true,
+// Enable developer tools:
+// "DeveloperToolsDisabled": false,
 
-// Disable tracking of the users' physical location:
+// Disable location tracking:
 // "DefaultGeolocationSetting": 2,
 
-// Install uBlock Origin, Data Saver, and Office Editing extensions
-// "ExtensionInstallForcelist": ["cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", "pfmgfdlgomnbgkofeojodiodmgpgmkac;// https://clients2.google.com/service/update2/crx", "gbkeegbaiigmenfmjfclcdgdpimamgkj;https://clients2.google.com/service/update2/crx"],
-
-"ExtensionInstallWhitelist": [ "aapocclcgogkmnckokdopfmhonfmgoek", "aohghmighlieiainnegkcijnfilokake", "apdfllckaahabafndbhieahigkjlhalf", "blpcfgokakmgnkcojhhkbfbldkacnbeo", "felcaaldnbdncclmgdcncolpebgiejap", "pjkljhegncpnkpknbcohdijeoejaedia",],
-"ExtensionInstallForcelist": [ "mdmkkicfmmkgmpkmkdikhlbggogpicma;https://clients2.google.com/service/update2/crx", "aapocclcgogkmnckokdopfmhonfmgoek;https://clients2.google.com/service/update2/crx", "aohghmighlieiainnegkcijnfilokake;https://clients2.google.com/service/update2/crx", "apdfllckaahabafndbhieahigkjlhalf;https://clients2.google.com/service/update2/crx", "blpcfgokakmgnkcojhhkbfbldkacnbeo;https://clients2.google.com/service/update2/crx", "felcaaldnbdncclmgdcncolpebgiejap;https://clients2.google.com/service/update2/crx", "pjkljhegncpnkpknbcohdijeoejaedia;https://clients2.google.com/service/update2/crx",],
-
-// Disable background mode as it interferes with state saving
+// Disable background mode to prevent interference with persistence
 "BackgroundModeEnabled": false,
 
-// Enable the bookmarks editor
+// Enable the bookmarks editor:
 "EditBookmarksEnabled": true,
+
+// Enable the user manager:
+
+// Enable phishing and malware protection:
+// "SafeBrowsingEnabled": true,
+
+// Enable safe search:
+// "ForceGoogleSafeSearch": true,
+
+// Enable YouTube content restrictions:
+// "ForceYouTubeRestrict": true,
+
+// Permit the standard Google Apps (Slides, Docs, Drive, YouTube, Sheets, Gmail) 
+"ExtensionInstallWhitelist": [ "aapocclcgogkmnckokdopfmhonfmgoek", "aohghmighlieiainnegkcijnfilokake", "apdfllckaahabafndbhieahigkjlhalf", "blpcfgokakmgnkcojhhkbfbldkacnbeo", "felcaaldnbdncclmgdcncolpebgiejap", "pjkljhegncpnkpknbcohdijeoejaedia", ],
+
+// Install uBlock Origin
+"ExtensionInstallForcelist": [ "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx", ],
