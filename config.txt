@@ -13,5 +13,5 @@ disable_private_mode=yes
 right_mouse_click=yes
 screen_settings=Virtual1:1680x1050:59.95:normal:normal:normal
 timezone=Pacific/Auckland
-wallpaper=http://porteus-kiosk.org/public/wallpapers/sample.jpg
+wallpaper=https://raw.githubusercontent.com/robisaacnz/kiosks/master/wallpaper.jpg
 additional_components=06-fonts.xzm
