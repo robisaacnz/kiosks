@@ -1,6 +1,3 @@
-// Show the home button:
-// "ShowHomeButton": true,
-
 // Hide the bookmark bar:
 "BookmarkBarEnabled": false,
 
