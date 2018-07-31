@@ -1,6 +1,3 @@
-// Never allow fullscreen:
-"FullscreenAllowed": false,
-
 // Show the home button:
 "ShowHomeButton": true,
 
