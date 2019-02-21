@@ -1,5 +1,9 @@
 "BookmarkBarEnabled": false,
 
+"ShowHomeButton": false,
+
+"BrowserAddPerson": false,
+
 "ExtensionInstallWhitelist": [
     "aohghmighlieiainnegkcijnfilokake",
     "apdfllckaahabafndbhieahigkjlhalf",
