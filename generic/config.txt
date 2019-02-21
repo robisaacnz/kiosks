@@ -15,3 +15,5 @@ volume_level=100%
 dpms_idle=10
 session_idle=30
 halt_idle=240
+wake_on_lan=yes
+allow_icmp_protocol=yes
