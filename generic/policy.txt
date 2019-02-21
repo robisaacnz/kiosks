@@ -2,7 +2,7 @@
 
 "ShowHomeButton": false,
 
-"BrowserAddPerson": false,
+"DisableNewAvatarMenu": true,
 
 "ExtensionInstallWhitelist": [
     "aohghmighlieiainnegkcijnfilokake",
