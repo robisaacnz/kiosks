@@ -1,4 +1,4 @@
-kiosk_config=https://robisaacnz.github.io/kiosks/general
+kiosk_config=https://robisaacnz.github.io/kiosks/generic
 dhcp=yes
 timezone=Pacific/Auckland
 additional_components=06-fonts.xzm 
@@ -9,8 +9,8 @@ disable_private_mode=yes
 right_mouse_click=yes
 homepage=https://www.google.co.nz/
 homepage_check=Network connection failure
-browser_preferences=https://robisaacnz.github.io/kiosks/policy/general.txt
-wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/general.jpg
+browser_preferences=https://robisaacnz.github.io/kiosks/policy/generic.json
+wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/generic.jpg
 volume_level=90%
 dpms_idle=10
 session_idle=30
