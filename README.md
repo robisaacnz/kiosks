@@ -10,4 +10,4 @@ That will configure an instance with:
 * Sessions that end when the last window is closed
 * Automatic cleanup
 
-You can fork or otherwise borrow this repository as a template for managing your own instances.
+The syntax for controlling remote settings can be tricky, especially for pushing browser policies. You can fork or otherwise borrow this repository as a template for managing your own instances, or just use this one for a simple automatic configuration.
