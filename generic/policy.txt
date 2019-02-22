@@ -2,8 +2,6 @@
 
 "ShowHomeButton": false,
 
-"EnableNewProfileManagementSystem": false,
-
 "ExtensionInstallWhitelist": [
     "aohghmighlieiainnegkcijnfilokake",
     "apdfllckaahabafndbhieahigkjlhalf",
