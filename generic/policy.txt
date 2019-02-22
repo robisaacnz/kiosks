@@ -2,7 +2,7 @@
 
 "ShowHomeButton": false,
 
-"DisableNewAvatarMenu": true,
+"EnableNewProfileManagementSystem": false,
 
 "ExtensionInstallWhitelist": [
     "aohghmighlieiainnegkcijnfilokake",
