@@ -1,4 +1,4 @@
-This repository holds configuration and policy information for remotely configuring instances of Porteus Kiosk.
+This repository holds configuration and policy information for remotely configuring instances of [Porteus Kiosk](https://porteus-kiosk.org).
 
 If you have no special requirements, you can get good results by configuring an instance to use this management URL:
 
