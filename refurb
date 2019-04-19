@@ -1,5 +1,9 @@
 connection=wifi
-dhcp=yes
+dhcp=no
+ip_address=10.0.1.239
+netmask=255.255.255.0
+default_gateway=10.0.1.1
+network_interface=wlan0
 dns_server=208.67.222.123 208.67.220.123
 wifi_encryption=wpa
 wpa_password=whiskeytangofoxtrot
