@@ -17,6 +17,6 @@ browser_preferences=https://robisaacnz.github.io/kiosks/policy/refurb.json
 disable_private_mode=yes
 right_mouse_click=yes
 timezone=Pacific/Auckland
-wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/refurb.png
+wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/refurb.jpg
 additional_components=uefi.zip 06-fonts.xzm 
 
