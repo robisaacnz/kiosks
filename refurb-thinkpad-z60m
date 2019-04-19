@@ -1,0 +1,23 @@
+kiosk_config=https://robisaacnz.github.io/kiosks/refurb
+connection=wifi
+network_interface=eth1
+ssid_name=3L
+wpa_password=whiskeytangofoxtrot
+wifi_encryption=wpa
+dhcp=yes
+browser=chrome
+allow_popup_windows=yes
+browser_preferences=https://robisaacnz.github.io/kiosks/policy/refurb.json
+disable_private_mode=yes
+homepage_check=Network connection failure
+homepage=https://www.google.co.nz/
+allow_icmp_protocol=yes
+dpms_idle=5
+session_idle=30
+halt_idle=60
+disable_numlock=yes
+right_mouse_click=yes
+timezone=Pacific/Auckland
+wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/refurb.jpg
+additional_components=uefi.zip 06-fonts.xzm 
+
