@@ -1,5 +1,6 @@
 connection=wifi
 dhcp=yes
+dns_server=208.67.222.123 208.67.220.123
 wifi_encryption=wpa
 wpa_password=whiskeytangofoxtrot
 ssid_name=3L
