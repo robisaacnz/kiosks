@@ -1,6 +1,5 @@
 kiosk_config=https://robisaacnz.github.io/kiosks/refurb
 connection=wifi
-network_interface=eth1
 ssid_name=3L
 wpa_password=whiskeytangofoxtrot
 wifi_encryption=wpa
