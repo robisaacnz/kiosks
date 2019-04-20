@@ -1,14 +1,8 @@
 "ExtensionInstallWhitelist": [
-    "bcidahcpjehlemnbmeaepadalhjofnmp",
-    "gighmmpiobklfepjocnamgkkbiglidom",
-    "cfhdojbkjhnklbpkdaibdccddilifddb",
-    "pfmgfdlgomnbgkofeojodiodmgpgmkac",],
+    "bcidahcpjehlemnbmeaepadalhjofnmp",],
 
 "ExtensionInstallForcelist": [
-    "bcidahcpjehlemnbmeaepadalhjofnmp;https://clients2.google.com/service/update2/crx",
-    "gighmmpiobklfepjocnamgkkbiglidom;https://clients2.google.com/service/update2/crx",
-    "cfhdojbkjhnklbpkdaibdccddilifddb;https://clients2.google.com/service/update2/crx",
-    "pfmgfdlgomnbgkofeojodiodmgpgmkac;https://clients2.google.com/service/update2/crx",],
+    "bcidahcpjehlemnbmeaepadalhjofnmp;https://clients2.google.com/service/update2/crx",],
 
 "BookmarkBarEnabled": false,
 
