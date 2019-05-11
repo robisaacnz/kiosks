@@ -1,7 +1,9 @@
 "ExtensionInstallWhitelist": [
+    "lmkdlclficoecjnoooplalmbofnmpckp",
     "bcidahcpjehlemnbmeaepadalhjofnmp",],
 
 "ExtensionInstallForcelist": [
+    "lmkdlclficoecjnoooplalmbofnmpckp;https://clients2.google.com/service/update2/crx",
     "bcidahcpjehlemnbmeaepadalhjofnmp;https://clients2.google.com/service/update2/crx",],
 
 "BookmarkBarEnabled": false,
