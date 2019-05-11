@@ -10,7 +10,6 @@ homepage_check=Network connection failure
 homepage=https://www.google.co.nz/
 allow_icmp_protocol=yes
 kiosk_config=https://robisaacnz.github.io/kiosks/viewsonic10p
-browser_preferences=https://robisaacnz.github.io/kiosks/policy/viewsonic10p.json
 disable_numlock=yes
 allow_popup_windows=no
 halt_idle=15
