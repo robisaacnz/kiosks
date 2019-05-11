@@ -1,0 +1,25 @@
+connection=wifi
+network_interface=wlan0
+dhcp=yes
+wifi_encryption=wpa
+ssid_name=3L
+wpa_password=whiskeytangofoxtrot
+browser=chrome
+browser_user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+enable_dpms=yes
+homepage_check=Network connection failure
+homepage=https://www.google.co.nz/
+allow_icmp_protocol=yes
+kiosk_config=https://robisaacnz.github.io/kiosks/viewsonic10p
+disable_numlock=yes
+allow_popup_windows=yes
+halt_idle=10
+browser_preferences=https://robisaacnz.github.io/kiosks/policy/viewsonic10p.json
+disable_private_mode=yes
+right_mouse_click=yes
+enable_swap=yes
+timezone=Pacific/Auckland
+wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/refurb.jpg
+zRAM=25%
+additional_components=06-fonts.xzm 
+
