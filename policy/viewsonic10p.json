@@ -1,8 +1,10 @@
 "ExtensionInstallWhitelist": [
     "lmkdlclficoecjnoooplalmbofnmpckp",
+    "mclkkofklkfljcocdinagocijmpgbhab",
     "bcidahcpjehlemnbmeaepadalhjofnmp",],
 
 "ExtensionInstallForcelist": [
+    "mclkkofklkfljcocdinagocijmpgbhab;https://clients2.google.com/service/update2/crx",
     "lmkdlclficoecjnoooplalmbofnmpckp;https://clients2.google.com/service/update2/crx",
     "bcidahcpjehlemnbmeaepadalhjofnmp;https://clients2.google.com/service/update2/crx",],
 
