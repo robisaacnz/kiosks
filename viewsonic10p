@@ -13,7 +13,6 @@ kiosk_config=https://robisaacnz.github.io/kiosks/viewsonic10p
 disable_numlock=yes
 allow_popup_windows=no
 halt_idle=10
-browser_preferences=https://robisaacnz.github.io/kiosks/policy/viewsonic10p2.json
 disable_private_mode=yes
 right_mouse_click=no
 enable_swap=yes
