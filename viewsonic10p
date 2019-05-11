@@ -22,4 +22,3 @@ wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/refurb.jpg
 additional_components=06-fonts.xzm
 screen_settings=LVDS-0:1024x600:60.00:normal:normal:normal
 volume_level=100%
-whitelist=chrome://extensions chrome://settings
