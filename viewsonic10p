@@ -20,6 +20,5 @@ right_mouse_click=yes
 enable_swap=yes
 timezone=Pacific/Auckland
 wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/refurb.jpg
-zRAM=25%
-additional_components=06-fonts.xzm 
-
+additional_components=06-fonts.xzm 08-ssh.xzm
+root_password=password
