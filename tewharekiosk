@@ -1,7 +1,7 @@
 kiosk_config=https://robisaacnz.github.io/kiosks/tewharekiosk
 connection=wifi
-ssid_name=3L
-wpa_password=whiskeytangofoxtrot
+ssid_name=Te Whare
+wpa_password=welcomein
 wifi_encryption=wpa
 dhcp=yes
 browser=chrome
