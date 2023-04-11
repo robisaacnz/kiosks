@@ -17,4 +17,5 @@ halt_idle=60
 disable_numlock=yes
 right_mouse_click=yes
 timezone=Pacific/Auckland
+wallpaper=https://robisaacnz.github.io/kiosks/wallpaper/black.png
 additional_components=06-fonts.xzm
