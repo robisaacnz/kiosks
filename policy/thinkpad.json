@@ -3,19 +3,11 @@
 "ShowHomeButton": false,
 
 "ExtensionInstallWhitelist": [
-    "aohghmighlieiainnegkcijnfilokake",
-    "apdfllckaahabafndbhieahigkjlhalf",
-    "blpcfgokakmgnkcojhhkbfbldkacnbeo",
-    "felcaaldnbdncclmgdcncolpebgiejap",
-    "pjkljhegncpnkpknbcohdijeoejaedia",
-    "aapocclcgogkmnckokdopfmhonfmgoek",
+    "aeblfdkhhhdcdjpifhhbdiojplfjncoa",
+    "hdpcadigjkbcpnlcpbcohpafiaefanki",
     "cjpalhdlnbpafiamejdnhcphjbkeiagm",],
 
 "ExtensionInstallForcelist": [
-    "aohghmighlieiainnegkcijnfilokake;https://clients2.google.com/service/update2/crx",
-    "apdfllckaahabafndbhieahigkjlhalf;https://clients2.google.com/service/update2/crx",
-    "blpcfgokakmgnkcojhhkbfbldkacnbeo;https://clients2.google.com/service/update2/crx",
-    "felcaaldnbdncclmgdcncolpebgiejap;https://clients2.google.com/service/update2/crx",
-    "pjkljhegncpnkpknbcohdijeoejaedia;https://clients2.google.com/service/update2/crx",
-    "aapocclcgogkmnckokdopfmhonfmgoek;https://clients2.google.com/service/update2/crx",
+    "aeblfdkhhhdcdjpifhhbdiojplfjncoa;https://clients2.google.com/service/update2/crx",
+    "hdpcadigjkbcpnlcpbcohpafiaefanki;https://clients2.google.com/service/update2/crx",
     "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",],
